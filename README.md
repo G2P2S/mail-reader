@@ -1,2 +1,3 @@
 To start program:
- mail-reader --> dist --> email_reader
+ Windows: mail-reader --> dist --> email_reader.exe
+ Mac: mail-reader --> dist --> email_reader
