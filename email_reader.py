@@ -10,15 +10,14 @@ imap_server = 'outlook.office365.com'
 
 
 def get_user_input():
-    email_addr = input("Email: ")
-    client_id = input("Client id: ")
-    refresh_token = input("Refresh token: ")
-    return {
-        "email": email_addr,
-        "client_id": client_id,
-        "refresh_token": refresh_token
+    data = input("Данные: ")
+    data_split = data.split(":")
+    data_dict = {
+        "email": data_split[0],
+        "refresh_token": data_split[2],
+        "client_id": data_split[3]
     }
-
+    return data_dict
 
 class MailClient:
 
