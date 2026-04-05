@@ -158,6 +158,8 @@ def run():
     client.get_access_token()
     client.connect_imap()
 
+    input('Нажмите любую клавишу для завершения...')
+
 
 if __name__ == "__main__":
     run()
