@@ -190,6 +190,9 @@
   ('python3.14/lib-dynload/readline.cpython-314-darwin.so',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/readline.cpython-314-darwin.so',
    'EXTENSION'),
+  ('python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
+   '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
+   'EXTENSION'),
   ('python3.14/lib-dynload/_multibytecodec.cpython-314-darwin.so',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_multibytecodec.cpython-314-darwin.so',
    'EXTENSION'),
@@ -210,9 +213,6 @@
    'EXTENSION'),
   ('python3.14/lib-dynload/_codecs_hk.cpython-314-darwin.so',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_codecs_hk.cpython-314-darwin.so',
-   'EXTENSION'),
-  ('python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
-   '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
    'EXTENSION'),
   ('81d243bd2c585b0f4821__mypyc.cpython-314-darwin.so',
    '/Users/maksimknikhuta/Desktop/mail '
@@ -237,46 +237,46 @@
    'BINARY'),
   ('libzstd.1.dylib', '/opt/homebrew/opt/zstd/lib/libzstd.1.dylib', 'BINARY'),
   ('liblzma.5.dylib', '/opt/homebrew/opt/xz/lib/liblzma.5.dylib', 'BINARY'),
-  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/METADATA',
+  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE',
    '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/METADATA',
-   'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/INSTALLER',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/INSTALLER',
+   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE',
    'DATA'),
   ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/WHEEL',
    '/Users/maksimknikhuta/Desktop/mail '
    'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/WHEEL',
    'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE',
+  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/REQUESTED',
    '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE',
-   'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/RECORD',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/RECORD',
+   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/REQUESTED',
    'DATA'),
   ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/top_level.txt',
    '/Users/maksimknikhuta/Desktop/mail '
    'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/top_level.txt',
    'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/REQUESTED',
+  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/INSTALLER',
    '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/REQUESTED',
+   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/INSTALLER',
+   'DATA'),
+  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/METADATA',
+   '/Users/maksimknikhuta/Desktop/mail '
+   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/METADATA',
+   'DATA'),
+  ('setuptools/_vendor/importlib_metadata-8.7.1.dist-info/RECORD',
+   '/Users/maksimknikhuta/Desktop/mail '
+   'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/RECORD',
    'DATA'),
   ('setuptools/_vendor/jaraco/text/Lorem ipsum.txt',
    '/Users/maksimknikhuta/Desktop/mail '
    'reader/mail-reader/venv/lib/python3.14/site-packages/setuptools/_vendor/jaraco/text/Lorem '
    'ipsum.txt',
    'DATA'),
-  ('certifi/cacert.pem',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/certifi/cacert.pem',
-   'DATA'),
   ('certifi/py.typed',
    '/Users/maksimknikhuta/Desktop/mail '
    'reader/mail-reader/venv/lib/python3.14/site-packages/certifi/py.typed',
+   'DATA'),
+  ('certifi/cacert.pem',
+   '/Users/maksimknikhuta/Desktop/mail '
+   'reader/mail-reader/venv/lib/python3.14/site-packages/certifi/cacert.pem',
    'DATA'),
   ('Python', 'Python.framework/Versions/3.14/Python', 'SYMLINK'),
   ('base_library.zip',
@@ -292,7 +292,7 @@
  [],
  False,
  False,
- 1775335051,
+ 1775397656,
  [('run',
    '/Users/maksimknikhuta/Desktop/mail '
    'reader/mail-reader/venv/lib/python3.14/site-packages/PyInstaller/bootloader/Darwin-64bit/run',

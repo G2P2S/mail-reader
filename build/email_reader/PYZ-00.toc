@@ -26,9 +26,6 @@
   ('_ios_support',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_ios_support.py',
    'PYMODULE'),
-  ('_markupbase',
-   '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_markupbase.py',
-   'PYMODULE'),
   ('_opcode_metadata',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_opcode_metadata.py',
    'PYMODULE'),
@@ -244,62 +241,6 @@
    'PYMODULE'),
   ('bisect',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/bisect.py',
-   'PYMODULE'),
-  ('bs4',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/__init__.py',
-   'PYMODULE'),
-  ('bs4._deprecation',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/_deprecation.py',
-   'PYMODULE'),
-  ('bs4._typing',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/_typing.py',
-   'PYMODULE'),
-  ('bs4._warnings',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/_warnings.py',
-   'PYMODULE'),
-  ('bs4.builder',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/builder/__init__.py',
-   'PYMODULE'),
-  ('bs4.builder._html5lib',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/builder/_html5lib.py',
-   'PYMODULE'),
-  ('bs4.builder._htmlparser',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/builder/_htmlparser.py',
-   'PYMODULE'),
-  ('bs4.builder._lxml',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/builder/_lxml.py',
-   'PYMODULE'),
-  ('bs4.css',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/css.py',
-   'PYMODULE'),
-  ('bs4.dammit',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/dammit.py',
-   'PYMODULE'),
-  ('bs4.element',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/element.py',
-   'PYMODULE'),
-  ('bs4.exceptions',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/exceptions.py',
-   'PYMODULE'),
-  ('bs4.filter',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/filter.py',
-   'PYMODULE'),
-  ('bs4.formatter',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/bs4/formatter.py',
    'PYMODULE'),
   ('bz2',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/bz2.py',
@@ -546,9 +487,6 @@
    'PYMODULE'),
   ('html.entities',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/html/entities.py',
-   'PYMODULE'),
-  ('html.parser',
-   '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/html/parser.py',
    'PYMODULE'),
   ('http',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/__init__.py',
@@ -1505,34 +1443,6 @@
    'PYMODULE'),
   ('socketserver',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socketserver.py',
-   'PYMODULE'),
-  ('soupsieve',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/__init__.py',
-   'PYMODULE'),
-  ('soupsieve.__meta__',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/__meta__.py',
-   'PYMODULE'),
-  ('soupsieve.css_match',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/css_match.py',
-   'PYMODULE'),
-  ('soupsieve.css_parser',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/css_parser.py',
-   'PYMODULE'),
-  ('soupsieve.css_types',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/css_types.py',
-   'PYMODULE'),
-  ('soupsieve.pretty',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/pretty.py',
-   'PYMODULE'),
-  ('soupsieve.util',
-   '/Users/maksimknikhuta/Desktop/mail '
-   'reader/mail-reader/venv/lib/python3.14/site-packages/soupsieve/util.py',
    'PYMODULE'),
   ('ssl',
    '/opt/homebrew/Cellar/python@3.14/3.14.2_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py',
