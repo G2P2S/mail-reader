@@ -18,10 +18,10 @@ jobs:
       run: pip install pyinstaller requests
 
     - name: Build exe
-      run: pyinstaller --onefile main.py
+      run: pyinstaller --onefile email_reader.py
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: mail-reader
-        path: dist/main.exe
+        path: dist/email_reader.exe
